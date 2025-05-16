@@ -33,8 +33,6 @@ This project is an intelligent RPA solution developed using **UiPath** that auto
 📄 README.md → Project summary and usage
 📄 .gitignore → Git exclusions for temp files
 
-
-
 ---
 
 ## 🧠 Technologies Used
@@ -78,14 +76,12 @@ FinalScore = (SkillMatchScore × 0.4) + (DegreeScore × 0.2) + (ExperienceScore 
 
 > This score helps recruiters quickly shortlist the most qualified applicants.
 
-
 ---
 
 ## 🎥 Demo
 
 📺 Watch the Resume Filtering Bot in action:  
 [▶️ Watch Demo on YouTube](https://youtu.be/bmsUvxe0m1g)
-
 
 ---
 
@@ -112,4 +108,3 @@ Masters in Business Analytics with Data Science and AI
 🔍 Focused on building scalable, data-driven solutions across automation, machine learning, and artificial intelligence
 
 ---
-
