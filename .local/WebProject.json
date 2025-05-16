@@ -1,0 +1,1212 @@
+{
+  "Snapshot": {
+    "Id": "77f9c0e7-4dfb-4c44-85e1-b09713018c3b",
+    "ExpressionLanguage": "VisualBasic",
+    "ProjectType": "Process",
+    "Name": "AutomatedResumeScreeningCandidateRanking",
+    "Description": "Blank Process",
+    "LastModifiedTime": "2025-05-08T03:45:10.2660857Z",
+    "CreationTime": "2025-05-08T03:45:10.2660857Z",
+    "UserId": "bb0c9a45-1f7d-429a-881a-a485ba432e43",
+    "RootFolder": {
+      "Name": "77f9c0e7-4dfb-4c44-85e1-b09713018c3b",
+      "Folders": [
+        {
+          "Id": "461dc6b2-3c37-4a92-bba7-0977258cbd24",
+          "Name": "Output",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "b0d64988-9bf7-4d70-833c-c96cf24a9853",
+              "Name": "CandidateScores.xlsx",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "9a320da3-d1ad-450f-827f-88384b7c5e70",
+          "Name": ".tmh",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "660a6675-3102-47a8-890c-bcef61cbdff5",
+              "Name": "config.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "c57b9e51-52e2-4748-8e48-38b261b47c74",
+          "Name": ".settings",
+          "Folders": [
+            {
+              "Id": "eb7b3cc0-e588-45c6-aeff-70c6210018a4",
+              "Name": "Debug",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "bd26a786-aa6b-428c-abe9-6a82a48704ab",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "b7319966-4be6-4ffc-b354-19068eccc1fc",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "0baac3ff-b8f8-4b3c-9697-48225201d6ee",
+              "Name": "Release",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "69a8c082-1608-4ab6-8c8f-8d1db57c4faf",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "c22db14a-4f92-437e-a8e4-89c696de897b",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "9cb78d51-749b-4dcf-ad81-1353c283934e",
+              "Name": "Design",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "e0f843fc-2ca3-4a24-8cac-2052e0e80f63",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": []
+        },
+        {
+          "Id": "c28638c3-9fef-4c07-9c11-a0c6dfef4a21",
+          "Name": "Resumes",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "8a2f3be2-712f-4829-8df4-bbfa100a058a",
+              "Name": "Marcus_Flynn_Senior_Back_End_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "af572f5e-23f9-47e9-9c39-de3c0fc74b2e",
+              "Name": "Diana_Flores_Senior_Game_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "d235a02d-ad0c-451c-abaa-f55b8002f8e5",
+              "Name": "Maya_Thompson_Junior_Data_Analyst.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "f02ebcfd-b221-4218-9b76-fd2a014552b4",
+              "Name": "Leila_Morrison_Junior_Software_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "1777a37e-1794-4551-a47d-8088ac939251",
+              "Name": "Noah_Delgado_Junior_Back_End_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "2a036e05-8624-4748-8ecd-40a83d4bdb71",
+              "Name": "Gavin_Wright_Senior_VR_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "1d05ae47-697c-499a-bec1-e150e229aa26",
+              "Name": "Vanessa_Moore_Senior_Social_Media_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "eef9085d-0e12-48de-b8d9-2278e727c800",
+              "Name": "Ella_Stevens_Senior_Computer_Graphics_Animator.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "d77480fc-e63f-4632-b98d-e3b1276eee6c",
+              "Name": "Ariana_Wells_Mid_Information_Architect.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "b1358d1c-d4e4-4a85-a68c-140d9b3d6244",
+              "Name": "Eric_Lam_Mid_Software_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "f6482125-9180-49d4-9cb3-953f90fe8513",
+              "Name": "Riley_Chen_Junior_Game_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "266cc661-7cfe-4894-b0f4-c58a8b161014",
+              "Name": "Derek_Foster_Senior_Growth_Hacker.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "a04cf727-1352-4e08-a0ed-9dcf617bd2bd",
+              "Name": "Tyler_Zhang_Mid_Data_Modeler.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "eced6f52-770e-471e-9450-9822c53bc2c0",
+              "Name": "Julian_Rivera_Senior_Data_Scientist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "891b2fb9-b4cb-4f45-b151-d156683f5e6e",
+              "Name": "Valerie_Thomas_Senior_AR_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "79f9b1eb-9f94-4729-84f7-4f8822cfa073",
+              "Name": "Reid_Dawson_Mid_AI_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "41c1d36c-30fb-4ec9-a37b-cdd5c3cd010d",
+              "Name": "Leo_Hartman_Mid_AR_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "7637f917-ee60-47dd-be83-64076f4b662a",
+              "Name": "Lucas_Romero_Mid_Business_Systems_Analyst.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "00c9fd72-0bc4-4c6d-bb7d-c6c0ca96ce4f",
+              "Name": "Noelle_Carter_Junior_Database_Administrator.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "2dcec875-d481-4cf7-b509-76036197230f",
+              "Name": "Olivia_Bennett_Senior_Cloud_Architect.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "0e847342-488f-495a-b0ce-37fa9d1922df",
+              "Name": "Tyler_James_Mid_Content_Strategist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "8e278779-8959-4f3c-97bc-064e87f2ecf1",
+              "Name": "Liam_Roberts_Mid_Technical_Account_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "79864946-bbd4-4cf0-9973-ec15aea4659d",
+              "Name": "Erin_Wallace_Mid_Growth_Hacker.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "db4943d2-4a95-4e20-9d88-e9395299fe0a",
+              "Name": "Camila_Torres_Mid_Systems_Engineer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "5f2450d1-2c92-412f-aade-fe526e4f4ffa",
+              "Name": "Lena_Armstrong_Senior_AI_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "46472f67-4856-4514-82d9-2ba3520cc9b3",
+              "Name": "Naomi_Reyes_Senior_Frameworks_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "9a6e26a4-9695-4526-8c53-a4dd51330a2b",
+              "Name": "Olivia_Harper_Senior_Digital_Marketing_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "054c772f-2843-4c6b-b7ba-b68b12eb8edf",
+              "Name": "Colin_Matthews_Senior_Full_Stack_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "b4ea1a5a-5870-4c5e-aa39-80d137300098",
+              "Name": "Priya_Shah_Mid_WordPress_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "33580484-ec4e-43a5-8817-2b633fff909e",
+              "Name": "Zoe_Williams_Mid_Mobile_App_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "af48fa0d-ee3f-486e-81af-8b115fb3bc10",
+              "Name": "Bianca_Lee_Junior_Systems_Administrator.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "4904b53a-590e-435b-ab50-e60d9311f11b",
+              "Name": "Maxwell_Rhodes_Senior_Information_Architect.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "818f709c-5c65-4a52-9c66-4ff8cec5791a",
+              "Name": "Melissa_Grant_Senior_Content_Strategist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "ec84e048-8703-4346-8544-2b413cbd0b61",
+              "Name": "Leah_Simmons_Senior_Front_End_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "673686f3-579b-421c-8d70-93b6851698d9",
+              "Name": "Ethan_Davis_Senior_Mobile_App_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "271479c7-fc7d-4faa-8314-1934ce273d87",
+              "Name": "Derrick_Holmes_Mid_Systems_Administrator.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "a6431c19-d535-482d-ad9f-64ec71a66bb1",
+              "Name": "Rachel_Lin_Junior_Social_Media_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "eaa1b56a-bf23-45a9-a7ff-3cef3bd69341",
+              "Name": "Isaac_Dawson_Senior_Systems_Engineer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "f12237e4-54f1-4190-9bdb-ea9bf38d6b43",
+              "Name": "Naomi_Douglas_Mid_Technical_Lead.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "cc20d9e4-a4cf-4ac1-ac9d-c30dc2392046",
+              "Name": "Isabelle_Grant_Junior_Technical_Account_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "4da1eef6-d5d9-448a-ae37-edd5af84d7a8",
+              "Name": "Darius_Reed_Junior_Algorithm_Engineer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "cb712926-78a4-4955-9c9e-e9fb0aa5f5b4",
+              "Name": "Tanya_Rivera_Junior_Accessibility_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "323f281e-6c68-4a68-99ac-2f403b32df5c",
+              "Name": "Isaac_Thornton_Mid_Content_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "8fab2988-0989-43c8-80a6-8eb518af9964",
+              "Name": "Sophie_Delgado_Junior_Digital_Marketing_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "f9726684-1fbd-4eda-8fd7-372194a49fef",
+              "Name": "Harper_Nguyen_Senior_ML_Engineer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "b8d09cf0-40d3-49e1-86bd-7eb80dec8ceb",
+              "Name": "Natalie_Hu_Mid_Front_End_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "74aab6aa-0a86-4150-a25c-f39325d3d3f2",
+              "Name": "Elena_Park_Junior_Content_Strategist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "c42e5dbf-acaf-4e2b-b928-36b6e9e6d36c",
+              "Name": "Natalie_Moore_Senior_Systems_Administrator.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "3d0eda22-5fd7-4900-9ba0-e1c7b9fbde0d",
+              "Name": "Leo_Nguyen_Junior_Growth_Hacker.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "2f99a924-7495-4e49-9d90-56717ea35121",
+              "Name": "Selena_Grant_Senior_Business_Systems_Analyst.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "b8793e33-c5ac-4030-85cd-943a1f61a5f6",
+              "Name": "Julian_Foster_Senior_Front_End_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "1c971684-ebcb-44d2-b453-043308f66c94",
+              "Name": "Liam_Brooks_Junior_WordPress_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "039e9f94-142d-4bf1-a3f9-f0c9403de9c5",
+              "Name": "Karan_Desai_Mid_Mobile_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "c63725dd-46fa-4685-bb62-d3d0e959a96a",
+              "Name": "Dylan_Price_Junior_Full_Stack_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "5a2791ea-07e5-400f-9069-5c795162434a",
+              "Name": "Elijah_Brooks_Senior_Technical_Lead.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "ded08f74-64ce-4065-8224-702abbf3a17c",
+              "Name": "Olivia_White_Junior_Computer_Graphics_Animator.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "60bc8ddd-9ce3-461b-a8f7-678dce2ddedb",
+              "Name": "Carlos_Garcia_Mid_DevOps_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "f4a73d1e-ae22-4b2b-906b-d4a6aca0139d",
+              "Name": "Eva_Rios_Junior_Mobile_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "1d26cdfe-b33b-4994-b026-735ae0e2a262",
+              "Name": "Connor_Blake_Mid_Social_Media_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "cdc779db-479b-4fd6-b81e-c2afb78dd60d",
+              "Name": "Ethan_Richards_Mid_Agile_Project_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "ae11bbb5-f386-4373-b6d2-359da84d499d",
+              "Name": "Zane_Mitchell_Junior_Python_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "d914e4ff-1755-462e-95ef-3803d78a1f93",
+              "Name": "Raj_Mehra_Mid_Cloud_Architect.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "28affb0b-f753-4319-a3a4-cf53096be7da",
+              "Name": "Ivy_Chen_Junior_Front_End_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "3249c4d5-5e69-412e-94ed-22fd3470cde1",
+              "Name": "Caleb_Simmons_Senior_ARVR_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "7499a2f3-bd14-4974-b8c5-1d4856cdc5a4",
+              "Name": "Miles_Turner_Junior_React_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "12560055-965f-487f-9f3d-8cf28b11c452",
+              "Name": "Oliver_Grant_Senior_WordPress_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "2fe3614f-34c0-4be7-a9e4-9e708b1a9569",
+              "Name": "Ryan_Pierce_Junior_Security_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "e29c4455-3032-43eb-bb36-3739848f842e",
+              "Name": "Aidan_Brooks_Junior_Systems_Engineer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "61493316-952d-4670-b6ef-34bed8aea6ed",
+              "Name": "Marcus_Lin_Senior_Algorithm_Engineer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "f0948ba2-4fb9-4e94-bc32-ed09cdd4b4d4",
+              "Name": "Amelia_Green_Senior_QA_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "fe42e7c5-2014-4a35-8e89-bbb63ffec0be",
+              "Name": "Ethan_Roberts_Mid_Security_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "35ba5b21-e73a-4181-abc7-b90cf54e19b3",
+              "Name": "Tara_Singh_Junior_Frameworks_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "41781521-8fbe-4eed-8a5e-8131c5e78e2d",
+              "Name": "Sasha_Moreno_Senior_3D_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "075ebf30-bcc7-4830-918f-c3039d7a922c",
+              "Name": "Adrian_Torres_Junior_Front_End_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "235ec17f-84b1-4754-9028-4a51306719dd",
+              "Name": "Olivia_Scott_Senior_DevOps_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "86d022aa-b439-4310-9c03-62c87ff0fe15",
+              "Name": "Jordan_Singh_Mid_Web_Analytics_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "c68cd1b5-061d-469c-8e64-c32fe3693acf",
+              "Name": "Trevor_Singh_Senior_Python_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "054b80bf-d4b3-4d08-b71a-c22e74fd6c51",
+              "Name": "Renee_Alvarez_Senior_Mobile_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "c6daff15-eac6-4eed-bf28-6d5212cd1a75",
+              "Name": "Talia_Brooks_Mid_VR_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "bd18ac3c-f15f-4edf-82bc-e7645766c27f",
+              "Name": "Brandon_Lee_Junior_UI_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "1e8cde34-4571-49e7-b153-3e839dae42c9",
+              "Name": "Nora_Sanders_Senior_Accessibility_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "b9e2d222-2d80-4787-a583-0604e8cf966a",
+              "Name": "Leo_Fernandez_Junior_Data_Scientist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "362435fc-09c1-400d-8411-15c4336b45d1",
+              "Name": "Carmen_Alvarez_Junior_3D_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "98031d36-bb6a-4a4b-b0f2-7deb750f0955",
+              "Name": "Omar_Patel_Mid_Front_End_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "a2e15201-d3f6-492d-a1c9-e59d94d1ec4a",
+              "Name": "Ayesha_Malik_Senior_Database_Administrator.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "89a819ed-a27b-4722-bc37-f86ff3eef1ab",
+              "Name": "Avery_Clark_Senior_Technical_Account_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "9c27c2af-1b69-4dd3-901c-018c095f9494",
+              "Name": "Jason_Patel_Junior_ARVR_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "319ff4bf-8834-4ea3-b056-86cf8994da73",
+              "Name": "Charlotte_Greene_Mid_Product_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "15d52c97-14e9-49c7-b82a-b9395eeaa701",
+              "Name": "Andre_Wallace_Mid_Frameworks_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "960d3cf4-c30b-4850-88dd-57006a25fec6",
+              "Name": "Claire_McKinley_Senior_Content_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "bb07f797-0657-47a3-9d8c-75c9addfdf9b",
+              "Name": "Nina_Kapoor_Junior_AR_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "8196d703-6ecf-4ce2-894d-423c7e9f579e",
+              "Name": "Elliot_James_Mid_Game_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "09f02910-3c4b-4513-9bdb-ff74968bbdd4",
+              "Name": "Julian_Perez_Junior_Information_Architect.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "3a11bb36-8099-456f-abcb-e132712ce824",
+              "Name": "Trevor_Lane_Senior_Interaction_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "14405889-79e5-4fb6-b4ad-a1b73d71712b",
+              "Name": "Yasmin_Carter_Senior_Software_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "f734e1b2-fdfa-4325-8c18-f1913d41bcd2",
+              "Name": "Elisa_Navarro_Mid_Python_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "48fdc4fa-497b-4128-a330-11d37e9d60ff",
+              "Name": "Lucas_Martin_Mid_QA_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "f830cdd8-ec5e-4112-b13b-8d1db688bf3a",
+              "Name": "Liam_Patel_Junior_Product_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "977fa289-e66f-4059-a9d2-5b32bb8051f4",
+              "Name": "Daniel_Hayes_Senior_Product_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "996f61bc-84fd-4005-85ae-8caed019dff3",
+              "Name": "Sophie_King_Junior_QA_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "a966ac03-c875-4179-8894-beaae7ea7710",
+              "Name": "Amber_Zhao_Mid_ARVR_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "19a5f715-9ef3-4635-a015-1a25a01f66ac",
+              "Name": "James_Carter_Mid_Computer_Graphics_Animator.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "e174391d-143c-451c-912a-568e6f07da47",
+              "Name": "Charlotte_Hughes_Senior_Security_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "2445a73a-585e-4a86-9e45-e54607e796f5",
+              "Name": "Jenna_Brooks_Junior_Data_Modeler.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "786e1bba-82cc-4029-a4bd-cb2fb9b3edff",
+              "Name": "Grant_Simmons_Mid_Database_Administrator.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "2f74442a-2a9a-45f6-94b1-70597fa29566",
+              "Name": "Mila_Watson_Junior_Cloud_Architect.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "a016a718-3d58-43da-8139-12cd452af836",
+              "Name": "Arjun_Deshmukh_Mid_ML_Engineer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "5454914c-3e44-4579-82da-a639cac548b1",
+              "Name": "Natalie_Chen_Senior_Web_Analytics_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "7d4e93d3-cfc4-4b44-9146-991efdb0bf61",
+              "Name": "Priyanka_Reddy_Junior_ML_Engineer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "bee9502f-2ba9-4599-9708-c86ab15ce004",
+              "Name": "Sofia_Bennett_Mid_Back_End_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "9a6cedf9-9b7f-4bba-bc54-8e83ec1b9e07",
+              "Name": "Logan_Daniels_Senior_UI_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "bd8f4849-f75d-454d-91da-5ef733ee4de3",
+              "Name": "Felix_Morgan_Junior_Interaction_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "e93fb640-4ebd-4bc9-a53e-b88dd3421d6c",
+              "Name": "Justin_Stevens_Senior_Marketing_Technologist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "9c092fac-26ec-4b3b-a7a0-a5bcdfb56179",
+              "Name": "Angela_Phelps_Junior_SEO_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "9c2248bb-0b10-4043-ba5d-f8d3d5feb653",
+              "Name": "Dominic_Ray_Mid_UX_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "aeda0696-56e5-4628-86aa-3bf1e4920e71",
+              "Name": "Grant_Holloway_Mid_Accessibility_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "5916685a-1237-4621-91a8-f3287507f65a",
+              "Name": "Sophia_Morgan_Junior_Agile_Project_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "1cd88786-fc64-401c-8f19-60d371cac8ca",
+              "Name": "Cody_Blake_Junior_VR_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "bf05765a-1115-422f-bcfd-ef6ee7a62920",
+              "Name": "Mario_Le_Senior_SEO_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "5163ac44-2cf0-45ae-a2f2-8827e0bd38ee",
+              "Name": "Tessa_Morgan_Mid_Data_Scientist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "d329109f-3137-407c-a2ee-f617d9136298",
+              "Name": "Fatima_Singh_Mid_Data_Architect.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "cfdc0be2-0dcf-4967-815d-542ffce175af",
+              "Name": "Evan_Castillo_Junior_Data_Architect.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "09092ec5-2592-4d51-a18a-3a3c3b298f33",
+              "Name": "Daniel_Vaughn_Mid_Digital_Marketing_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "8dcc1c9f-bc57-45c0-a80b-3c0af7f129a5",
+              "Name": "Isabel_Romero_Mid_Full_Stack_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "8acd77b3-386b-4da1-81f5-56153d5fac45",
+              "Name": "Imani_Wells_Junior_AI_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "50324907-5c3d-4cbe-8a30-1c5b3e9b3d81",
+              "Name": "Hannah_Kim_Mid_UI_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "6b859d6a-8f41-4b07-888b-549bbe912822",
+              "Name": "Maya_Brooks_Mid_Interaction_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "e0facffe-fcbb-48e8-9cfc-a46babecd481",
+              "Name": "Malik_Anderson_Senior_Data_Architect.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "26f77250-eb5b-4c97-92bd-90660634f8aa",
+              "Name": "Damian_Wells_Senior_React_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "1bfdd14f-6507-42c9-8baa-6201004251ca",
+              "Name": "Sophia_Adams_Junior_DevOps_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "4900ee57-23fd-4cc0-aadf-bbebec86093d",
+              "Name": "Brandon_Lee_Junior_Technical_Lead.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "866ca8aa-a309-4b21-9d57-af6a0c411411",
+              "Name": "Zara_Mitchell_Junior_UX_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "20df6782-a650-4ce1-878d-ac67c4fc9e40",
+              "Name": "Aiden_Scott_Junior_Mobile_App_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "103468de-656d-4330-93e3-708a222bef31",
+              "Name": "Alexandra_Rice_Mid_SEO_Specialist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "935174b4-0a82-4bca-b5ff-388e7bcd5657",
+              "Name": "Chloe_Vasquez_Mid_Algorithm_Engineer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "1a221987-dbe3-4bfe-a517-f63b3a547d8c",
+              "Name": "Nina_Barrett_Junior_Content_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "642a1bf8-7f40-49d2-819c-f8fbd776e3cf",
+              "Name": "Samantha_Boyd_Senior_UX_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "534b1bb1-d0f9-4cb8-885e-06d06c10fabd",
+              "Name": "Sophia_Bennett_Mid_React_Developer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "4c234205-28a5-4b1d-98a6-8ac64cd6d7d6",
+              "Name": "Mario_Le_Junior_Marketing_Technologist_Styled.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "a459ac45-d92e-4500-8f65-094658a91eb7",
+              "Name": "Harper_Bell_Senior_Agile_Project_Manager.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "36b58760-27bc-4d53-8404-31f9b296c06b",
+              "Name": "Jordan_Hayes_Mid_3D_Designer.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "f0285233-a682-4f91-ab04-a4952edb662e",
+              "Name": "Simone_Wallace_Senior_Data_Modeler.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "aefd5c2f-a9e3-415e-89ee-291c7fd694d0",
+              "Name": "Rebecca_Lowery_Mid_Marketing_Technologist.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "8f81f75c-24ba-43b7-863f-06f8dfa68e21",
+              "Name": "Jonas_Keller_Mid_Data_Analyst.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "aaed25b7-149e-4007-8893-3acd3a2e30a5",
+              "Name": "Jade_Nguyen_Junior_Business_Systems_Analyst.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "bdccfa34-a9f3-486c-9c76-dfa689736488",
+              "Name": "Isabella_Ford_Senior_Data_Analyst.pdf",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "d820f308-4054-4886-a5b5-d4c67d9d630d",
+          "Name": ".project",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "b58f7b5b-3033-4da3-b2f6-535d4b4362ee",
+              "Name": "design.json",
+              "IsMain": false
+            },
+            {
+              "Id": "ab59230e-3b2f-467d-a0d7-4e83b4cc6720",
+              "Name": "PackageBindingsMetadata.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "56357d41-e0cf-4ec6-9596-33ad79bf92ad",
+          "Name": "ReferenceFiles",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "2928a655-ee91-49ad-9096-73ab34a2569b",
+              "Name": "Job Title Senior Data Analyst.txt",
+              "IsMain": false
+            }
+          ]
+        }
+      ],
+      "Files": [
+        {
+          "Id": "3b4f77ee-3359-4eb8-a390-0360ca045036",
+          "Name": "project.json",
+          "IsMain": false
+        },
+        {
+          "Id": "50fa4a81-1465-4500-9562-c84a7be3f1df",
+          "Name": "Main.xaml",
+          "IsMain": true
+        }
+      ]
+    },
+    "Dependencies": [
+      {
+        "Name": "UiPath.Excel.Activities",
+        "Version": "[2.25.1-preview]"
+      },
+      {
+        "Name": "UiPath.PDF.Activities",
+        "Version": "[3.22.1-preview]"
+      },
+      {
+        "Name": "UiPath.System.Activities",
+        "Version": "[25.2.1]"
+      }
+    ],
+    "HasTrigger": false,
+    "DisableAutoUpdate": false
+  },
+  "OriginalFilesHash": {
+    "Resumes/Brandon_Lee_Junior_Technical_Lead.pdf": "zfEtCUyQ+ln5mIUbLuV+ou7+lkRwGPUbteVYdECWaCQ=",
+    "Resumes/Aidan_Brooks_Junior_Systems_Engineer.pdf": "fKn7+vpR9psGkezkhB1JYoyeKFeIwmjr52WfPNF67vY=",
+    "Resumes/Leo_Nguyen_Junior_Growth_Hacker.pdf": "PBLfRlJMAyckK6JUGphVJ5EdAP1t5yYDilOwDi301Hc=",
+    "Resumes/Jenna_Brooks_Junior_Data_Modeler.pdf": "s8mmRB4vuVRd1lOOCsUqV6rNvqAgHCIODcQubBKvR6A=",
+    "Resumes/Derrick_Holmes_Mid_Systems_Administrator.pdf": "xUF3cY/prGqp6T8OoBXfyrj1zOy80AmrONuI/pR1fpk=",
+    "Resumes/Sophia_Morgan_Junior_Agile_Project_Manager.pdf": "xPGPuIrdT8OxsgrR52GEPYhgR0Brie0j5M+RFsriSGs=",
+    "Resumes/Leah_Simmons_Senior_Front_End_Designer.pdf": "ZYgl+YeS58cSPY7x0Eko8s02v4cZZLYo7S0pNDxs4hQ=",
+    "Resumes/Sophie_Delgado_Junior_Digital_Marketing_Manager.pdf": "zjjg3s/j5n3M0l4qXdRM/uG7VgpbhyhbxYW3eT7FKWM=",
+    "Resumes/Imani_Wells_Junior_AI_Developer.pdf": "YlnZpfpyJ8lcGGf96GBgmRd+9XjD5F3/MkuVWLRJeAE=",
+    "Resumes/Raj_Mehra_Mid_Cloud_Architect.pdf": "LGWMhAqOI7VAbLSBNL13uskU1T4caL/aTdRquhMMuKY=",
+    "Resumes/Mila_Watson_Junior_Cloud_Architect.pdf": "clzhaM38DZjQYGkVHAtZKgICoU3PNWR1cHEjKQgSWY0=",
+    "Main.xaml": "NwiLPXl6sKJ7hIlUeIz34KX/PXfHjnXLJelg+fLdlXQ=",
+    "Resumes/Daniel_Vaughn_Mid_Digital_Marketing_Manager.pdf": "2FNEGtNvkRUl3FIzJdWI+0KUDUoOZzhcpd1Q7j3dziQ=",
+    "Resumes/Harper_Bell_Senior_Agile_Project_Manager.pdf": "38dngwUQNvkSfm8xXKfjRpd/8mDo/iBJ8mviLERSnII=",
+    "Resumes/Gavin_Wright_Senior_VR_Designer.pdf": "DA8ifrBjzakRFsu1R2/2fM/iDQSIRAIRAgfOAJHR/kI=",
+    "Resumes/Rebecca_Lowery_Mid_Marketing_Technologist.pdf": "y/8oE1r98fqWS8pSRJvfVyo88GMOVX7xz0KSB6Sy+c4=",
+    "Resumes/Natalie_Hu_Mid_Front_End_Developer.pdf": "8c38OaLluh6B0iI731vPA84iNwXj/2T+ZBsc/RIF9R4=",
+    "Resumes/Ariana_Wells_Mid_Information_Architect.pdf": "kMr3auZ5q1Cazp7/CBusyB3jsWkJEY+Tn4lGShCkjIE=",
+    "Resumes/Darius_Reed_Junior_Algorithm_Engineer.pdf": "/2sxFqnVfMbXZ7yZt4VvFdJxTJW24o70Nz2e2NwC9CM=",
+    ".settings/Release/settings-9e9290da.json": "7PjBQcYPpDS7UhN/HydlT7QCRIsBYnPNtHuFFBOcfg8=",
+    "Resumes/Priya_Shah_Mid_WordPress_Developer.pdf": "VOOt8UgqQmS388kpavXGs/gZZsfTrElgn2DoFAm0SFQ=",
+    "Resumes/Colin_Matthews_Senior_Full_Stack_Developer.pdf": "CK0ye7zD6nmUNJ3WuK38QyL6V1hiOw6gy9pUw2xo7M8=",
+    "project.json": "TGlkmmohJiA7EM/hiAv+nbvVtQqWI5rZ0XONikoj2lo=",
+    "Resumes/Tara_Singh_Junior_Frameworks_Specialist.pdf": "jSmj/REIvRZwpN7uc9/Wk1LE9Gl50LDRzgrElS/gOWU=",
+    ".project/design.json": "OSn5OGDSTqb7VoeZ2kDfitAA5XA8pC3nXBRuqXzFw0Y=",
+    "Resumes/Trevor_Singh_Senior_Python_Developer.pdf": "eTL5nWXy7QTmUYImxE5ykT3wArZFieVDI1eeq56kBGM=",
+    "Resumes/Isabella_Ford_Senior_Data_Analyst.pdf": "/wnF7WbdBagfKSaon6X3bHI4Kw04RZkikE8ArYriqfI=",
+    "Resumes/Liam_Brooks_Junior_WordPress_Developer.pdf": "ZABR2JLYiMQVhA0IPmUiEsgOLYCDgFGKwUXWxuwcAjI=",
+    "Resumes/Grant_Simmons_Mid_Database_Administrator.pdf": "HyoJLBDyxk+1fiBsdZse2Fp7LFf+j4fr8bZdHjnolfg=",
+    "Resumes/Elena_Park_Junior_Content_Strategist.pdf": "Erp2D4IbPyxeATSPBuVL403kwJwFPmRVtGA4vAgIVCA=",
+    "Resumes/Leila_Morrison_Junior_Software_Developer.pdf": "mOnemjt30Q4MuhFAh5F2AAMoocoEC2eDfF83P+i42m4=",
+    "Resumes/Logan_Daniels_Senior_UI_Designer.pdf": "Spi22kYCJDCihJ8ATu6yVSDdfS+0fKjPSqyfY8tx4VE=",
+    "Resumes/Noelle_Carter_Junior_Database_Administrator.pdf": "ulRJdwxalzo7cSv4sZzIBMmvNV1IMnz87vZXVsJGZcA=",
+    "Resumes/Selena_Grant_Senior_Business_Systems_Analyst.pdf": "HUEmbqp14NOuPHbSULxi0xgPe7S8GnP57sxEPOpmbfg=",
+    "Resumes/Diana_Flores_Senior_Game_Developer.pdf": "wRMZ6ztvga2l+F0xZg+1tI3sWiob7NY5xnZXyXyYHT8=",
+    "Resumes/Olivia_Scott_Senior_DevOps_Manager.pdf": "GlHpxK3XhUU7YRDS5Mmg2PXICTdxj+zpZCtpW+iD9qM=",
+    "Resumes/Felix_Morgan_Junior_Interaction_Designer.pdf": "AcPb5p8ex1XUKBlAgdn4Qgnyubn/yM4a1+5H3sTdmXc=",
+    "Resumes/Isaac_Thornton_Mid_Content_Manager.pdf": "CvKGY5QEib/Lfv7hhTEASJDNgE2lmLxJs8i0PHzvyio=",
+    "Resumes/Arjun_Deshmukh_Mid_ML_Engineer.pdf": "wu3KBNFLnfbGKqWG3Ny+osl+L61To6fuQvgAYfVeTvk=",
+    "Resumes/Julian_Perez_Junior_Information_Architect.pdf": "ME/+niVnY+9GJAnZRNfTIaSneQzLUc+Q+lg2PnsuNmc=",
+    "Resumes/Ethan_Roberts_Mid_Security_Specialist.pdf": "rW4r30seTgqTDZ/9LkLqkdHT6nWd5S1lIRcvx/2jKIQ=",
+    "Resumes/Bianca_Lee_Junior_Systems_Administrator.pdf": "6ew+yBfy7aARMPtG6qhqseV42+LQ13Q36ATb7kPBs5M=",
+    "Resumes/Tyler_Zhang_Mid_Data_Modeler.pdf": "1ODlX/XR6FAP9sTnL5MPRJJT+Rll/ZzewtEHQEl9POI=",
+    "Resumes/Mario_Le_Junior_Marketing_Technologist_Styled.pdf": "NqZmwatHSQx/QDQhi5lgNvvSlS3wTnqPImESseK6n6k=",
+    "Resumes/Leo_Hartman_Mid_AR_Designer.pdf": "oS8qVXJhsQd56GjG4mqFTE10Jn8o8O2l04sryU9si7c=",
+    "Resumes/Lucas_Martin_Mid_QA_Specialist.pdf": "GMVyIn/SbPdaHwaLIF+94Eb37ZN099fDfqUtLY7Xbls=",
+    "Resumes/Nina_Barrett_Junior_Content_Manager.pdf": "QQ7iZYMPQ2W2buqKOUvG24WYv0OvXn606iK7EilMcqU=",
+    "Resumes/Jade_Nguyen_Junior_Business_Systems_Analyst.pdf": "dASS5t6YFXKvpc9ptyMaUduUN+b/DZY62n+tJlph1ZI=",
+    "Resumes/Ethan_Richards_Mid_Agile_Project_Manager.pdf": "mS2wIMFcjuI/Xb+uVDit7QkdvC5YcNB7l77h6g0Km3Q=",
+    "Resumes/Isaac_Dawson_Senior_Systems_Engineer.pdf": "AzFOiCMNVVwTxwHEJTGPOVsWfY2Lm9zJ6LsPzCEbpUI=",
+    "Resumes/Jonas_Keller_Mid_Data_Analyst.pdf": "wHGWoz9jK8JLD8CZ4Y0EzZl/B1WzC/OmA+cGneq7sK0=",
+    "Resumes/Sophie_King_Junior_QA_Specialist.pdf": "d1wlmkeAypNYzs9LzpTOoQV4YX1HDsesyciVTlGYXqg=",
+    "Resumes/Liam_Roberts_Mid_Technical_Account_Manager.pdf": "qxy8YuJvtpKV6/sVVbQsXBYsKRlNp+6yZwXyVAqz5A4=",
+    "Resumes/Julian_Foster_Senior_Front_End_Developer.pdf": "HOu98gFJmvKOrOVFmCcVFdg9XGLWlAI6gA+SiFnRUpY=",
+    "Resumes/Isabel_Romero_Mid_Full_Stack_Developer.pdf": "6I1XNLlzydbRF0TCnuPgevup1U0S58egKA8PYKjL9jM=",
+    "Resumes/Maxwell_Rhodes_Senior_Information_Architect.pdf": "eg5kG+Na5OHQgFyyN6cmQG9sB8/AvjArhc/dvxfQjmM=",
+    "Resumes/Zane_Mitchell_Junior_Python_Developer.pdf": "g5PlnDCon8EyHzF69ej6qD+ifP3/eElcBbQz5rXc21M=",
+    ".tmh/config.json": "Tk6QDUUsqtifkyIEMEjvqL300ZUpxaIp15qlWlZ+18w=",
+    "Resumes/Jason_Patel_Junior_ARVR_Developer.pdf": "QNboMssiOQ4UmMaerpNyptCZGXgjIsOuNyBPcCoPxSw=",
+    "Resumes/Jordan_Singh_Mid_Web_Analytics_Developer.pdf": "wcAZZLPfN5w2Nccr8excpSN0N8/w36A28vqR2Z0paeI=",
+    "Resumes/Ella_Stevens_Senior_Computer_Graphics_Animator.pdf": "VeIneOwND19nJ+I8msu/rqQEQ+NfWOqdk7dFJEVLs9g=",
+    "Resumes/Nina_Kapoor_Junior_AR_Designer.pdf": "FiB8KawGbPJARixpTdgHvr3cHlW+KH8TiYaZ5wtmBpU=",
+    ".settings/Debug/settings-9e9290da.json": "7PjBQcYPpDS7UhN/HydlT7QCRIsBYnPNtHuFFBOcfg8=",
+    "Resumes/Dominic_Ray_Mid_UX_Designer.pdf": "GJiBKaR9KlGkEOZ2bNhVzQGckWYol1oXaMxT5wFCV5Q=",
+    "Resumes/Rachel_Lin_Junior_Social_Media_Manager.pdf": "VQzbEIjHKnC2LF9W9Z6E3bTKZufBu8fijmIXZ7gujpQ=",
+    "Resumes/Grant_Holloway_Mid_Accessibility_Specialist.pdf": "2Giwoa3BRrLc5k2DocQtHxug+wQ6fe8dCPFRNwxI+a4=",
+    "Resumes/Connor_Blake_Mid_Social_Media_Manager.pdf": "o75tKTstVnNYVrrydH89ypJKEC3eC6ZbQh3yb/MCLRY=",
+    "Resumes/Evan_Castillo_Junior_Data_Architect.pdf": "Z8Lh6dpQ1C5nM6TwXL5xIm2YQZg3GO5UUFp3ZShhFrY=",
+    "Resumes/Olivia_Bennett_Senior_Cloud_Architect.pdf": "QuTOfIUBIQPDDNWTVdlhBYSCiz6QbQfGaT3W8E4QiXQ=",
+    "ReferenceFiles/Job Title Senior Data Analyst.txt": "AkeCcodvKsLJCeQKEijEr/Cd6llBtP9EybfW8lFNJ+g=",
+    "Resumes/Talia_Brooks_Mid_VR_Designer.pdf": "jo7hO/p2MekM2Hftt0YWLMrT1h0NfZg0vOUz3XKNqio=",
+    "Resumes/Simone_Wallace_Senior_Data_Modeler.pdf": "VARdZhmNEYyHafUbUmkC+/Q+pFxm0boFWdayts8pw4g=",
+    "Resumes/Zara_Mitchell_Junior_UX_Designer.pdf": "Qu0rLK4TIe1djXdLjIo/Xq0KtHCVXCXnCHDOuYGMvbQ=",
+    "Resumes/Elijah_Brooks_Senior_Technical_Lead.pdf": "PaIWpjWqR7lXjAWOsKdx4gAan3B5z/KzLwfsjdJDIXc=",
+    "Resumes/Charlotte_Greene_Mid_Product_Manager.pdf": "3L05hn1cybIeIvddfmDTD8X/TiDBiLjXmO4DtXNJgto=",
+    "Resumes/Valerie_Thomas_Senior_AR_Designer.pdf": "kaPDsddKijzW4NRh5vSJ4puviepgLnrw4C+6M8okB+c=",
+    "Resumes/Eric_Lam_Mid_Software_Developer.pdf": "U5sgkCpO9h4CBSloFDM+ieSMWHBe7SSEfpvXAe2XggU=",
+    "Resumes/Tanya_Rivera_Junior_Accessibility_Specialist.pdf": "69PUiSyzT5JnZg+YXF6h2/0Gq7mTE+osmakM+uPyt6M=",
+    "Resumes/Ivy_Chen_Junior_Front_End_Designer.pdf": "IUbpRx+amlGKekw9qcHLWRhB/ekmgapqhnuzgecrmMA=",
+    "Resumes/Erin_Wallace_Mid_Growth_Hacker.pdf": "yw3NAEuCTRTSgJNgcFKrUtPxeaQ06FNlRR4P/pAywtU=",
+    "Resumes/Isabelle_Grant_Junior_Technical_Account_Manager.pdf": "IxR9J5lP3LfW8udvW2F9kTWNinRl9QVO1xA1u71oQ8U=",
+    ".project/PackageBindingsMetadata.json": "UHheiHeZM1XH50wGotKxPQyM1M6+D3Fje//89mviL54=",
+    "Resumes/Sasha_Moreno_Senior_3D_Designer.pdf": "lfe1VdwgQ6exiLb4qxroiU+yD8KlfLv+e6vIhkwJ8aw=",
+    "Resumes/Angela_Phelps_Junior_SEO_Specialist.pdf": "xeFE2bO7x/Q8QWB9BhIGtFW7HP8Uf9RNca+/St51RrM=",
+    "Resumes/Amelia_Green_Senior_QA_Specialist.pdf": "pTc0puBrJMxOsuNrol74mi3aArTDJgEf9tO7f1fBn+o=",
+    "Resumes/Ryan_Pierce_Junior_Security_Specialist.pdf": "CDts/sYfvpi/M/hNo/jRfU3BGTAXZdm42FEGhXCFUIs=",
+    "Resumes/Melissa_Grant_Senior_Content_Strategist.pdf": "ESEPZjIeHd+xgol2GGlQC5cYkl8hridnn0qzhIftamk=",
+    ".settings/Release/settings-afad0842.json": "o6cyP0e4lygMz+a1AdWsz/rRkRbvynZ6TlDRF8oah28=",
+    "Resumes/Harper_Nguyen_Senior_ML_Engineer.pdf": "DqGOl2Y4VMRPv8FgZL27jKUbAwFkMBb0nu0kwfmEdnU=",
+    "Output/CandidateScores.xlsx": "3xHF6Tr99ZI26YMXjeOC1UFu99kdiqrRQmsFJB1vjDg=",
+    "Resumes/Ayesha_Malik_Senior_Database_Administrator.pdf": "NrDYYd1/xmAPSWucHuX0e02ej/ukPw8vP65xJrPJGHo=",
+    "Resumes/Naomi_Reyes_Senior_Frameworks_Specialist.pdf": "y29Jz3Apz+BER2xm2MsbDWrzrtdnhn+qHq9NuVMu9To=",
+    "Resumes/Leo_Fernandez_Junior_Data_Scientist.pdf": "NNQEOzYRSKwlOF5dBo7B/S3CvLoyhNHbeNa8wFx0Ma8=",
+    "Resumes/Carmen_Alvarez_Junior_3D_Designer.pdf": "9D41uci35ZgqzjKEVwWZ+EOwAdKeZZvcmjf5QsZusAk=",
+    "Resumes/Cody_Blake_Junior_VR_Designer.pdf": "JncJdDvAPvDUfqycEFMqntrsvXynEPDFQ2PrQxKpSMg=",
+    "Resumes/Lucas_Romero_Mid_Business_Systems_Analyst.pdf": "Q90zo5273aHbkfD10h3BsqgnhDJP2pwm8e8B1RG1pHo=",
+    "Resumes/Trevor_Lane_Senior_Interaction_Designer.pdf": "GTZP7/GgV06rfZ0SLE2ue9mUv7I4/hB1spj54TiI5/4=",
+    "Resumes/Adrian_Torres_Junior_Front_End_Developer.pdf": "pWVysTx3BjCNgbCNF8uF77uVVlQUXCQN2rZW3gziZ2Q=",
+    "Resumes/Yasmin_Carter_Senior_Software_Developer.pdf": "2R5lX4Dy1D3QJg+H9ZvyKk9v/8kztbOrqRa8vM9bNqA=",
+    "Resumes/Maya_Brooks_Mid_Interaction_Designer.pdf": "IRxPI4b4zSYmIehI/BowoQCEbfklSnURB7xFGD9LZlk=",
+    "Resumes/Sofia_Bennett_Mid_Back_End_Developer.pdf": "y/1NLAIi2oLZZswDLl3HGsA4dAGGqECO55B51YHmla0=",
+    "Resumes/Derek_Foster_Senior_Growth_Hacker.pdf": "4Xo6IKT9ZQmHLQKmuVKsX39IX+OJP63X7KMwL8dtmmg=",
+    "Resumes/Marcus_Lin_Senior_Algorithm_Engineer.pdf": "j7mh5mfMRYAVLGUDMY7ICDcqmVz+jFtLOpoTWEkx0jQ=",
+    "Resumes/Mario_Le_Senior_SEO_Specialist.pdf": "fqwuU7Ro+JoLAbylA+FyFetvkuZc8DVCHBigoW70wtk=",
+    "Resumes/Elliot_James_Mid_Game_Developer.pdf": "I0C/HMcUjV3uSPDXlTTP+6FPzFNVnKluxUVL8qrko8U=",
+    "Resumes/Justin_Stevens_Senior_Marketing_Technologist.pdf": "Tx5EqbEi9pJWjv7Y+ceyEN1eFzHCLxzWRCb7rURRusw=",
+    "Resumes/Miles_Turner_Junior_React_Developer.pdf": "dvH3RdSKYTRyaTpYBwQOw6a5k4t/3TM+PoVvp4nceW4=",
+    "Resumes/Sophia_Adams_Junior_DevOps_Manager.pdf": "jE700rNb3NUKNglwqQdiomsjwY9iMCxZis3vhW0ItCE=",
+    "Resumes/Naomi_Douglas_Mid_Technical_Lead.pdf": "sp4lCn6LB/B2mnrU9TjXKatFmiysFXO68LdgbXou8ps=",
+    "Resumes/Dylan_Price_Junior_Full_Stack_Developer.pdf": "NhOrQQ89pK/KuSuZGwwv4vn9zKlGBaP/RZMfujNqYZs=",
+    "Resumes/Reid_Dawson_Mid_AI_Developer.pdf": "r5mxoI/zuLC+i8W2aU0fNoZD+zqJLE2hUgWFjTm+ZC0=",
+    "Resumes/Omar_Patel_Mid_Front_End_Designer.pdf": "Z44Y7CNx19xibg1UhB9dgmvBKAbemY+nhSRrshmmtcI=",
+    "Resumes/Karan_Desai_Mid_Mobile_Developer.pdf": "lXBC+gOhOKLc3qlb9/LZdm1b+VP2uAQ+rljFGpMLsq8=",
+    "Resumes/Andre_Wallace_Mid_Frameworks_Specialist.pdf": "TPbcVB/2JI8Uq/ev1twHHpjeEhoMoXFoPrD9SAvSCPQ=",
+    "Resumes/Lena_Armstrong_Senior_AI_Developer.pdf": "UX4X/NNP2M3sviwp/GMPArK8wBsSmJ0MzJ/ep+PaUv4=",
+    "Resumes/Daniel_Hayes_Senior_Product_Manager.pdf": "xPIqn3l3xHCWNepFCg4weT6QqWvW0Q5iG7cs87zwXQ8=",
+    "Resumes/Marcus_Flynn_Senior_Back_End_Developer.pdf": "pDlsWkPa46K7B3TbgOYaHH3IND8sxaa8LwYUKu/wjJ0=",
+    "Resumes/Camila_Torres_Mid_Systems_Engineer.pdf": "kCMlQSmA9uo1ahvkymFfjnpmnk4MX/U6qKLAJ3JQLZo=",
+    "Resumes/Natalie_Chen_Senior_Web_Analytics_Developer.pdf": "Y61YkScMK93WmlUXYIpJVOiV4t+noSbkU8R6DFvsJ+M=",
+    "Resumes/Riley_Chen_Junior_Game_Developer.pdf": "z3oC9fsSMUs5XnV+uNGPfEAwGR5GHp7cHKzr2zrHEMo=",
+    "Resumes/Damian_Wells_Senior_React_Developer.pdf": "AwRBLynI3nd+5J3OEpJsnqOcszmUWb+z8EjSbQ338H4=",
+    "Resumes/Alexandra_Rice_Mid_SEO_Specialist.pdf": "TYUh8n4oXSfch80UKTsIKIdBSFMWYcPSCIzR2VXz4b4=",
+    "Resumes/Eva_Rios_Junior_Mobile_Developer.pdf": "5X81hMT3GGE7ynNTLAW7BPuf2qRcVYR1oLwZ0BBU/O8=",
+    "Resumes/Brandon_Lee_Junior_UI_Designer.pdf": "w0jfB778YbzWB0k7LeZrQkYnxKvupBrsHLBS3c6cYhg=",
+    "Resumes/Carlos_Garcia_Mid_DevOps_Manager.pdf": "6XNj1kIZClEgGI0CINSK46Ezcd6Ul8jbmafrj5sTGWI=",
+    "Resumes/Vanessa_Moore_Senior_Social_Media_Manager.pdf": "bKgUSRrP0BB5ytLlTA1bwRo2azXDGjCL0QyNeRB9EyQ=",
+    "Resumes/Avery_Clark_Senior_Technical_Account_Manager.pdf": "3r7knNdhdRq/flKHS3+Euv/m/wjmrvOJO2XT9L34R/Q=",
+    "Resumes/Julian_Rivera_Senior_Data_Scientist.pdf": "/B62isjziDBThXISeJcf4i0s6F8bH02R2HF6USf6YwA=",
+    "Resumes/Sophia_Bennett_Mid_React_Developer.pdf": "9pQ4neK+dQ6oWLVFYIoa0i4k0pW8NK+hKgs6cCBnvx0=",
+    "Resumes/Priyanka_Reddy_Junior_ML_Engineer.pdf": "ZylxHvLX3s4wCWaLn+YBlzA36IQHKocP/qa8vt9cCQ8=",
+    "Resumes/Nora_Sanders_Senior_Accessibility_Specialist.pdf": "l4L75eBmDI/o7nTUXdK/srf8UdMBhLn4M78SFfRwqQw=",
+    "Resumes/Claire_McKinley_Senior_Content_Manager.pdf": "GaWf1lXJRRIS+iykH9aNbKBFG1U1Pi8syv/rM/gjtwQ=",
+    "Resumes/Maya_Thompson_Junior_Data_Analyst.pdf": "rxvc00cLr9PDB8P/IL1hMnEDaoC3v8xzp5wEVnHk5W4=",
+    "Resumes/Fatima_Singh_Mid_Data_Architect.pdf": "+cs50SqPE1achTusNc+5TsjvyY5HM6IY/pd9KBKvWnI=",
+    "Resumes/Liam_Patel_Junior_Product_Manager.pdf": "RpMH76oX8eyVtzPdIu8zWwRfxx6pRSK36mJG1pH7bFQ=",
+    "Resumes/Renee_Alvarez_Senior_Mobile_Developer.pdf": "/q/l21HHunUvyNUQw5qn6WhR2CNi7gjNT3s27EUZTqo=",
+    "Resumes/Tessa_Morgan_Mid_Data_Scientist.pdf": "cxKX2lJ4KmaN/KvWDmJ5K3R9Xq1juNoUkdz5u2pAJBQ=",
+    "Resumes/Zoe_Williams_Mid_Mobile_App_Developer.pdf": "1pbeJgb9pYyikz5OnSdu+XbHqqTpo+BLH7OO5i0E7Ps=",
+    "Resumes/Jordan_Hayes_Mid_3D_Designer.pdf": "TTX+zQUkpIhC2BwWexnolmZk1E4ZdlLO1mhbP5ZsGS0=",
+    "Resumes/Olivia_White_Junior_Computer_Graphics_Animator.pdf": "NM5etymEY0S53KavxbVKdYCB1lK09tR7YSAvGZJO9ec=",
+    "Resumes/Aiden_Scott_Junior_Mobile_App_Developer.pdf": "A5wNYT2dTPcgkKSXjqaCGNVCw7w4FGhUOyoEptqA+u8=",
+    "Resumes/Ethan_Davis_Senior_Mobile_App_Developer.pdf": "cmoS1pR5Ga/Us/SOXz2dsM9gIHlEXGm8fPb9g3WQ9Ps=",
+    "Resumes/Natalie_Moore_Senior_Systems_Administrator.pdf": "fyxvw01QKG71orxja5nmQ+DekthxBN31kyETPWgeAqQ=",
+    "Resumes/Malik_Anderson_Senior_Data_Architect.pdf": "xY/aLO9s+6nDa7dcQwCN57hebsGd5a1PzbLdSQIggNE=",
+    "Resumes/Elisa_Navarro_Mid_Python_Developer.pdf": "fdX75GWyn05S+1y8ra3bXaJ5zFs69ok2YA1LPVRo8Gk=",
+    "Resumes/Samantha_Boyd_Senior_UX_Designer.pdf": "b+sS1cJL2JpGez4n7/1Likgpaq6AjVnfR3Noz4RfOxg=",
+    "Resumes/Chloe_Vasquez_Mid_Algorithm_Engineer.pdf": "lzfPFdmz43iiyVFmf//OOJ92v4zTUy+ywJltUGlnVUk=",
+    "Resumes/James_Carter_Mid_Computer_Graphics_Animator.pdf": "g1w3QvW1666hM3+sE09rKaChXvT8qq38du9f6wv1CBA=",
+    "Resumes/Oliver_Grant_Senior_WordPress_Developer.pdf": "zmmZp0x9t5DhJYKVifPdiVh6S4jpCB7nuYbm0IfJHsM=",
+    "Resumes/Olivia_Harper_Senior_Digital_Marketing_Manager.pdf": "9fTfOLgedd+dAN70MCNmEWMIUBmC8VV9NZ1mkgEKITQ=",
+    "Resumes/Charlotte_Hughes_Senior_Security_Specialist.pdf": "wWxWiApPirSZP+YaEjUkFgkodTg31hdsMYTP2PZ/QKo=",
+    "Resumes/Caleb_Simmons_Senior_ARVR_Developer.pdf": "2riNVPN5AH89rAatMZmcI1+qGIpVFuAr5r9Svy+mZxs=",
+    ".settings/Design/settings-afad0842.json": "jjBbv/WXwDPEhGnbSVQxlI3fuMaxR42abIF+4Qju1ok=",
+    "Resumes/Tyler_James_Mid_Content_Strategist.pdf": "tL5QMDNihTtsGOCbsjVqq2LqWucrF119L7VPEtKEw6A=",
+    ".settings/Debug/settings-afad0842.json": "o6cyP0e4lygMz+a1AdWsz/rRkRbvynZ6TlDRF8oah28=",
+    "Resumes/Amber_Zhao_Mid_ARVR_Developer.pdf": "sI9xNlC9RSqCFgv8nNe3yBohNNyVSqD9a8yt4Ruz4P0=",
+    "Resumes/Noah_Delgado_Junior_Back_End_Developer.pdf": "FHBx+Df5AFkFWttgRck9keDA9wcJ5+b2zdoCpve8+BM=",
+    "Resumes/Hannah_Kim_Mid_UI_Designer.pdf": "RsUBuF409erlx8efWxtdSb5OxoWiVE06wJmqhxCKJ6c="
+  },
+  "StudioWebFiles": [
+    "Main.xaml",
+    "project.json",
+    ".project/design.json",
+    ".project/PackageBindingsMetadata.json",
+    ".settings/Debug/settings-9e9290da.json",
+    ".settings/Debug/settings-afad0842.json",
+    ".settings/Design/settings-afad0842.json",
+    ".settings/Release/settings-9e9290da.json",
+    ".settings/Release/settings-afad0842.json",
+    ".tmh/config.json",
+    "Output/CandidateScores.xlsx",
+    "ReferenceFiles/Job Title Senior Data Analyst.txt",
+    "Resumes/Adrian_Torres_Junior_Front_End_Developer.pdf",
+    "Resumes/Aidan_Brooks_Junior_Systems_Engineer.pdf",
+    "Resumes/Aiden_Scott_Junior_Mobile_App_Developer.pdf",
+    "Resumes/Alexandra_Rice_Mid_SEO_Specialist.pdf",
+    "Resumes/Amber_Zhao_Mid_ARVR_Developer.pdf",
+    "Resumes/Amelia_Green_Senior_QA_Specialist.pdf",
+    "Resumes/Andre_Wallace_Mid_Frameworks_Specialist.pdf",
+    "Resumes/Angela_Phelps_Junior_SEO_Specialist.pdf",
+    "Resumes/Ariana_Wells_Mid_Information_Architect.pdf",
+    "Resumes/Arjun_Deshmukh_Mid_ML_Engineer.pdf",
+    "Resumes/Avery_Clark_Senior_Technical_Account_Manager.pdf",
+    "Resumes/Ayesha_Malik_Senior_Database_Administrator.pdf",
+    "Resumes/Bianca_Lee_Junior_Systems_Administrator.pdf",
+    "Resumes/Brandon_Lee_Junior_Technical_Lead.pdf",
+    "Resumes/Brandon_Lee_Junior_UI_Designer.pdf",
+    "Resumes/Caleb_Simmons_Senior_ARVR_Developer.pdf",
+    "Resumes/Camila_Torres_Mid_Systems_Engineer.pdf",
+    "Resumes/Carlos_Garcia_Mid_DevOps_Manager.pdf",
+    "Resumes/Carmen_Alvarez_Junior_3D_Designer.pdf",
+    "Resumes/Charlotte_Greene_Mid_Product_Manager.pdf",
+    "Resumes/Charlotte_Hughes_Senior_Security_Specialist.pdf",
+    "Resumes/Chloe_Vasquez_Mid_Algorithm_Engineer.pdf",
+    "Resumes/Claire_McKinley_Senior_Content_Manager.pdf",
+    "Resumes/Cody_Blake_Junior_VR_Designer.pdf",
+    "Resumes/Colin_Matthews_Senior_Full_Stack_Developer.pdf",
+    "Resumes/Connor_Blake_Mid_Social_Media_Manager.pdf",
+    "Resumes/Damian_Wells_Senior_React_Developer.pdf",
+    "Resumes/Daniel_Hayes_Senior_Product_Manager.pdf",
+    "Resumes/Daniel_Vaughn_Mid_Digital_Marketing_Manager.pdf",
+    "Resumes/Darius_Reed_Junior_Algorithm_Engineer.pdf",
+    "Resumes/Derek_Foster_Senior_Growth_Hacker.pdf",
+    "Resumes/Derrick_Holmes_Mid_Systems_Administrator.pdf",
+    "Resumes/Diana_Flores_Senior_Game_Developer.pdf",
+    "Resumes/Dominic_Ray_Mid_UX_Designer.pdf",
+    "Resumes/Dylan_Price_Junior_Full_Stack_Developer.pdf",
+    "Resumes/Elena_Park_Junior_Content_Strategist.pdf",
+    "Resumes/Elijah_Brooks_Senior_Technical_Lead.pdf",
+    "Resumes/Elisa_Navarro_Mid_Python_Developer.pdf",
+    "Resumes/Ella_Stevens_Senior_Computer_Graphics_Animator.pdf",
+    "Resumes/Elliot_James_Mid_Game_Developer.pdf",
+    "Resumes/Eric_Lam_Mid_Software_Developer.pdf",
+    "Resumes/Erin_Wallace_Mid_Growth_Hacker.pdf",
+    "Resumes/Ethan_Davis_Senior_Mobile_App_Developer.pdf",
+    "Resumes/Ethan_Richards_Mid_Agile_Project_Manager.pdf",
+    "Resumes/Ethan_Roberts_Mid_Security_Specialist.pdf",
+    "Resumes/Evan_Castillo_Junior_Data_Architect.pdf",
+    "Resumes/Eva_Rios_Junior_Mobile_Developer.pdf",
+    "Resumes/Fatima_Singh_Mid_Data_Architect.pdf",
+    "Resumes/Felix_Morgan_Junior_Interaction_Designer.pdf",
+    "Resumes/Gavin_Wright_Senior_VR_Designer.pdf",
+    "Resumes/Grant_Holloway_Mid_Accessibility_Specialist.pdf",
+    "Resumes/Grant_Simmons_Mid_Database_Administrator.pdf",
+    "Resumes/Hannah_Kim_Mid_UI_Designer.pdf",
+    "Resumes/Harper_Bell_Senior_Agile_Project_Manager.pdf",
+    "Resumes/Harper_Nguyen_Senior_ML_Engineer.pdf",
+    "Resumes/Imani_Wells_Junior_AI_Developer.pdf",
+    "Resumes/Isaac_Dawson_Senior_Systems_Engineer.pdf",
+    "Resumes/Isaac_Thornton_Mid_Content_Manager.pdf",
+    "Resumes/Isabella_Ford_Senior_Data_Analyst.pdf",
+    "Resumes/Isabelle_Grant_Junior_Technical_Account_Manager.pdf",
+    "Resumes/Isabel_Romero_Mid_Full_Stack_Developer.pdf",
+    "Resumes/Ivy_Chen_Junior_Front_End_Designer.pdf",
+    "Resumes/Jade_Nguyen_Junior_Business_Systems_Analyst.pdf",
+    "Resumes/James_Carter_Mid_Computer_Graphics_Animator.pdf",
+    "Resumes/Jason_Patel_Junior_ARVR_Developer.pdf",
+    "Resumes/Jenna_Brooks_Junior_Data_Modeler.pdf",
+    "Resumes/Jonas_Keller_Mid_Data_Analyst.pdf",
+    "Resumes/Jordan_Hayes_Mid_3D_Designer.pdf",
+    "Resumes/Jordan_Singh_Mid_Web_Analytics_Developer.pdf",
+    "Resumes/Julian_Foster_Senior_Front_End_Developer.pdf",
+    "Resumes/Julian_Perez_Junior_Information_Architect.pdf",
+    "Resumes/Julian_Rivera_Senior_Data_Scientist.pdf",
+    "Resumes/Justin_Stevens_Senior_Marketing_Technologist.pdf",
+    "Resumes/Karan_Desai_Mid_Mobile_Developer.pdf",
+    "Resumes/Leah_Simmons_Senior_Front_End_Designer.pdf",
+    "Resumes/Leila_Morrison_Junior_Software_Developer.pdf",
+    "Resumes/Lena_Armstrong_Senior_AI_Developer.pdf",
+    "Resumes/Leo_Fernandez_Junior_Data_Scientist.pdf",
+    "Resumes/Leo_Hartman_Mid_AR_Designer.pdf",
+    "Resumes/Leo_Nguyen_Junior_Growth_Hacker.pdf",
+    "Resumes/Liam_Brooks_Junior_WordPress_Developer.pdf",
+    "Resumes/Liam_Patel_Junior_Product_Manager.pdf",
+    "Resumes/Liam_Roberts_Mid_Technical_Account_Manager.pdf",
+    "Resumes/Logan_Daniels_Senior_UI_Designer.pdf",
+    "Resumes/Lucas_Martin_Mid_QA_Specialist.pdf",
+    "Resumes/Lucas_Romero_Mid_Business_Systems_Analyst.pdf",
+    "Resumes/Malik_Anderson_Senior_Data_Architect.pdf",
+    "Resumes/Marcus_Flynn_Senior_Back_End_Developer.pdf",
+    "Resumes/Marcus_Lin_Senior_Algorithm_Engineer.pdf",
+    "Resumes/Mario_Le_Junior_Marketing_Technologist_Styled.pdf",
+    "Resumes/Mario_Le_Senior_SEO_Specialist.pdf",
+    "Resumes/Maxwell_Rhodes_Senior_Information_Architect.pdf",
+    "Resumes/Maya_Brooks_Mid_Interaction_Designer.pdf",
+    "Resumes/Maya_Thompson_Junior_Data_Analyst.pdf",
+    "Resumes/Melissa_Grant_Senior_Content_Strategist.pdf",
+    "Resumes/Mila_Watson_Junior_Cloud_Architect.pdf",
+    "Resumes/Miles_Turner_Junior_React_Developer.pdf",
+    "Resumes/Naomi_Douglas_Mid_Technical_Lead.pdf",
+    "Resumes/Naomi_Reyes_Senior_Frameworks_Specialist.pdf",
+    "Resumes/Natalie_Chen_Senior_Web_Analytics_Developer.pdf",
+    "Resumes/Natalie_Hu_Mid_Front_End_Developer.pdf",
+    "Resumes/Natalie_Moore_Senior_Systems_Administrator.pdf",
+    "Resumes/Nina_Barrett_Junior_Content_Manager.pdf",
+    "Resumes/Nina_Kapoor_Junior_AR_Designer.pdf",
+    "Resumes/Noah_Delgado_Junior_Back_End_Developer.pdf",
+    "Resumes/Noelle_Carter_Junior_Database_Administrator.pdf",
+    "Resumes/Nora_Sanders_Senior_Accessibility_Specialist.pdf",
+    "Resumes/Oliver_Grant_Senior_WordPress_Developer.pdf",
+    "Resumes/Olivia_Bennett_Senior_Cloud_Architect.pdf",
+    "Resumes/Olivia_Harper_Senior_Digital_Marketing_Manager.pdf",
+    "Resumes/Olivia_Scott_Senior_DevOps_Manager.pdf",
+    "Resumes/Olivia_White_Junior_Computer_Graphics_Animator.pdf",
+    "Resumes/Omar_Patel_Mid_Front_End_Designer.pdf",
+    "Resumes/Priyanka_Reddy_Junior_ML_Engineer.pdf",
+    "Resumes/Priya_Shah_Mid_WordPress_Developer.pdf",
+    "Resumes/Rachel_Lin_Junior_Social_Media_Manager.pdf",
+    "Resumes/Raj_Mehra_Mid_Cloud_Architect.pdf",
+    "Resumes/Rebecca_Lowery_Mid_Marketing_Technologist.pdf",
+    "Resumes/Reid_Dawson_Mid_AI_Developer.pdf",
+    "Resumes/Renee_Alvarez_Senior_Mobile_Developer.pdf",
+    "Resumes/Riley_Chen_Junior_Game_Developer.pdf",
+    "Resumes/Ryan_Pierce_Junior_Security_Specialist.pdf",
+    "Resumes/Samantha_Boyd_Senior_UX_Designer.pdf",
+    "Resumes/Sasha_Moreno_Senior_3D_Designer.pdf",
+    "Resumes/Selena_Grant_Senior_Business_Systems_Analyst.pdf",
+    "Resumes/Simone_Wallace_Senior_Data_Modeler.pdf",
+    "Resumes/Sofia_Bennett_Mid_Back_End_Developer.pdf",
+    "Resumes/Sophia_Adams_Junior_DevOps_Manager.pdf",
+    "Resumes/Sophia_Bennett_Mid_React_Developer.pdf",
+    "Resumes/Sophia_Morgan_Junior_Agile_Project_Manager.pdf",
+    "Resumes/Sophie_Delgado_Junior_Digital_Marketing_Manager.pdf",
+    "Resumes/Sophie_King_Junior_QA_Specialist.pdf",
+    "Resumes/Talia_Brooks_Mid_VR_Designer.pdf",
+    "Resumes/Tanya_Rivera_Junior_Accessibility_Specialist.pdf",
+    "Resumes/Tara_Singh_Junior_Frameworks_Specialist.pdf",
+    "Resumes/Tessa_Morgan_Mid_Data_Scientist.pdf",
+    "Resumes/Trevor_Lane_Senior_Interaction_Designer.pdf",
+    "Resumes/Trevor_Singh_Senior_Python_Developer.pdf",
+    "Resumes/Tyler_James_Mid_Content_Strategist.pdf",
+    "Resumes/Tyler_Zhang_Mid_Data_Modeler.pdf",
+    "Resumes/Valerie_Thomas_Senior_AR_Designer.pdf",
+    "Resumes/Vanessa_Moore_Senior_Social_Media_Manager.pdf",
+    "Resumes/Yasmin_Carter_Senior_Software_Developer.pdf",
+    "Resumes/Zane_Mitchell_Junior_Python_Developer.pdf",
+    "Resumes/Zara_Mitchell_Junior_UX_Designer.pdf",
+    "Resumes/Zoe_Williams_Mid_Mobile_App_Developer.pdf"
+  ],
+  "LocalProjectPath": "C:\\Users\\Guest1\\Documents\\AutomatedResumeScreeningCandidateRanking",
+  "ProjectId": "77f9c0e7-4dfb-4c44-85e1-b09713018c3b",
+  "ProjectName": "AutomatedResumeScreeningCandidateRanking",
+  "Description": "Blank Process"
+}

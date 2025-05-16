@@ -1,0 +1,45 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "matchedSkills&Sequence_1",
+        "line2&Sequence_1",
+        "line1&Sequence_1",
+        "lines&Sequence_1",
+        "outputFilePath&Sequence_1",
+        "resultsDT&Sequence_1",
+        "resumesFolderPath&Sequence_1",
+        "outputFolderPath&Sequence_1",
+        "requiredSkillsArray&Sequence_1",
+        "referenceFolderPath&Sequence_2",
+        "requiredSkillsList&Sequence_2",
+        "resumeText&Sequence_3",
+        "currentTitle&Sequence_3",
+        "email&Sequence_3",
+        "experiencePhrase&Sequence_3",
+        "experienceYears&Sequence_3",
+        "skillsBlock&Sequence_3",
+        "candidateSkillsList&Sequence_3",
+        "candidateSkillsArray&Sequence_3",
+        "skillMatchScore&Sequence_3",
+        "degreeScore&Sequence_3",
+        "experienceScore&Sequence_3",
+        "finalScore&Sequence_3",
+        "name&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
